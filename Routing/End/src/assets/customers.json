@@ -27,8 +27,8 @@
       },
       {
             "id": 3,
-            "firstName": "Zed",
-            "lastName": "Bishop",
+            "firstName": "Zel",
+            "lastName": "Stanfel",
             "gender": "male",
             "address": "1822 Long Bay Dr.",
             "city": "Las Vegas",
@@ -53,8 +53,8 @@
       },
       {
             "id": 5,
-            "firstName": "Igor",
-            "lastName": "Minar",
+            "firstName": "Stephan",
+            "lastName": "Ackers",
             "gender": "male",
             "address": "576 Crescent Blvd.",
             "city": "Chandler",
@@ -79,8 +79,8 @@
       },
       {
             "id": 7,
-            "firstName": "Misko",
-            "lastName": "Hevery",
+            "firstName": "Guillermo",
+            "lastName": "Hoskins",
             "gender": "male",
             "address": "9812 Builtway Appt #1",
             "city": "Mountain View",
@@ -92,8 +92,8 @@
       },
       {
             "id": 8,
-            "firstName": "Heedy",
-            "lastName": "Wahlin",
+            "firstName": "Emily",
+            "lastName": "Capps",
             "gender": "female",
             "address": "4651 Tuvo St.",
             "city": "Chandler",
@@ -106,7 +106,7 @@
       {
             "id": 9,
             "firstName": "John",
-            "lastName": "Papa",
+            "lastName": "Smith",
             "gender": "male",
             "address": "66 Ray St.",
             "city": "Orlando",
@@ -131,8 +131,8 @@
       },
       {
             "id": 11,
-            "firstName": "Ward",
-            "lastName": "Bell",
+            "firstName": "Zach",
+            "lastName": "Caspin",
             "gender": "male",
             "address": "888 Central St.",
             "city": "San Francisco",
